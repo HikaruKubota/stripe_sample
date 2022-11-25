@@ -25,4 +25,7 @@ http://localhost:4242/checkout.html
 # 代替
 あらゆる要望を満たす方向で考えるならElementsが適してると思われます。
 
+ライブラリが提供されているからそれをAPI感覚で利用するようです。
+
 https://stripe.com/docs/payments/elements
+
